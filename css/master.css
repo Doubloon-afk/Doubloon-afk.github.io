@@ -1,0 +1,53 @@
+body{
+  font-family: "Lucida Console", Courier, monospace;
+
+  margin:0px;
+}
+
+#wrapper{
+
+width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+
+  height:150px;
+  width:100%;
+  background-color:#4FF0A8;
+}
+
+nav{
+  height:50px;
+  width:100%;
+  background-color:#7FDFFA;
+}
+
+main{
+  height:450px;
+  width:75%;
+  background-color:#4E64E0;
+}
+
+aside{
+  height:450px;
+  width:25%;
+  background-color: #A14AF7;
+}
+footer{
+  height:100px;
+  width:100%;
+  background-color:#ED47BE;
+}
+
+#container{
+  display:flex;
+}
+
+a {
+
+  color:black;
+  text-decoration: none;
+  font-size:50px;
+}
