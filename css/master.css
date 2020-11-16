@@ -13,36 +13,36 @@ width: 100%;
 
 header{
 
-  height:150px;
+  height:150  px;
   width:100%;
-  background-color:#4FF0A8;
+  background-color:Black;
 }
 
 nav{
   height:50px;
   width:100%;
-  background-color:#7FDFFA;
+  background-color:Pink;
 }
 
 main{
   height:450px;
   width:75%;
-  background-color:#4E64E0;
+  background-color:#
 }
 
 aside{
   height:450px;
   width:25%;
-  background-color: #A14AF7;
+  background-color:#
 }
 footer{
   height:100px;
   width:100%;
-  background-color:#ED47BE;
+  background-color:#
 }
 
 #container{
-  display:flex;
+display:flex;
 }
 
 a {
